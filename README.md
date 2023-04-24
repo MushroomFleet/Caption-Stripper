@@ -1,4 +1,6 @@
 <a target="_blank" href="https://colab.research.google.com/github/MushroomFleet/Caption-Stripper/blob/main/Caption_Stripper_V1.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 # Caption-Stripper
 This Colab tool written in Python will Strip selected words from dataset captions
